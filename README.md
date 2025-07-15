@@ -1,0 +1,1 @@
+Just a simple weather app using React JS and the openweatherAPI. Used this video: https://www.youtube.com/watch?v=GuA0_Z1llYU. The video used Celsius so I convereted the weather into Farenheit (USA USA).
